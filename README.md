@@ -1,4 +1,4 @@
-# Week 13: Introduction to Web Scraping
+# Week 7: Introduction to Web Scraping
 
 This project introduces the fundamentals of web scraping using Python's `requests` and `BeautifulSoup4` libraries. It demonstrates how to download HTML content from a website and extract specific information based on HTML structure.
 
