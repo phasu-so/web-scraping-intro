@@ -29,12 +29,3 @@ Always be mindful of the website's `robots.txt` file (e.g., `https://example.com
     python main.py
     ```
     The script will print the scraped book title and chapter titles to the console.
-
-## Project Structure
-web-scraping-intro/
-├── src/
-│   ├── __init__.py
-│   └── scraper.py
-├── main.py
-├── .gitignore
-└── README.md
