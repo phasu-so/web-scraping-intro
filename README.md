@@ -33,13 +33,8 @@ Always be mindful of the website's `robots.txt` file (e.g., `https://example.com
 ## Project Structure
 web-scraping-intro/
 ├── src/
-
 │   ├── __init__.py         # Makes 'src' a Python package
-
 │   └── scraper.py          # Contains the core web scraping logic
-
 ├── main.py                 # Application entry point
-
 ├── .gitignore              # Files/folders to ignore in Git
-
 └── README.md               # This project overview
